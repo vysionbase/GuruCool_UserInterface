@@ -40,7 +40,7 @@ class TeacherDialogBox extends StatelessWidget {
                         bottom: SizeConfig.v * 0.93,
                       ),
                       border: OutlineInputBorder(),
-                      hintText: 'Name',
+                      labelText: 'Name',
                       focusedBorder: OutlineInputBorder(
                           borderSide: BorderSide(color: Color(0xff515151))),
                       hintStyle: TextStyle(
@@ -67,7 +67,7 @@ class TeacherDialogBox extends StatelessWidget {
                         bottom: SizeConfig.v * 0.93,
                       ),
                       border: OutlineInputBorder(),
-                      hintText: 'E-Mail',
+                      labelText: 'E-Mail',
                       focusedBorder: OutlineInputBorder(
                           borderSide: BorderSide(color: Color(0xff515151))),
                       hintStyle: TextStyle(
@@ -94,7 +94,7 @@ class TeacherDialogBox extends StatelessWidget {
                         bottom: SizeConfig.v * 0.93,
                       ),
                       border: OutlineInputBorder(),
-                      hintText: 'Phone Number',
+                      labelText: 'Phone Number',
                       focusedBorder: OutlineInputBorder(
                           borderSide: BorderSide(color: Color(0xff515151))),
                       hintStyle: TextStyle(
@@ -121,7 +121,7 @@ class TeacherDialogBox extends StatelessWidget {
                         bottom: SizeConfig.v * 0.93,
                       ),
                       border: OutlineInputBorder(),
-                      hintText: 'Experience (in yrs)',
+                      labelText: 'Experience (in yrs)',
                       focusedBorder: OutlineInputBorder(
                           borderSide: BorderSide(color: Color(0xff515151))),
                       hintStyle: TextStyle(
@@ -148,7 +148,7 @@ class TeacherDialogBox extends StatelessWidget {
                         bottom: SizeConfig.v * 0.93,
                       ),
                       border: OutlineInputBorder(),
-                      hintText: 'Qualifications',
+                      labelText: 'Qualifications',
                       focusedBorder: OutlineInputBorder(
                           borderSide: BorderSide(color: Color(0xff515151))),
                       hintStyle: TextStyle(
